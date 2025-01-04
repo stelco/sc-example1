@@ -1,4 +1,4 @@
-declare module 'shared-components' {
+declare module '@stelco/shared-components' {
   export const Button: any;
   // Add other exports from 'shared-components' as needed
 }

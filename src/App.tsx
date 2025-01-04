@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-import { Button } from "shared-components"; //replace name with you lib name
+import { Button } from "@stelco/shared-components"; //github package (not npm)
 
 function App() {
   const [count, setCount] = useState(0)
