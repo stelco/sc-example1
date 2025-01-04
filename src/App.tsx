@@ -12,6 +12,7 @@ function App() {
     <>
     {/* Add the shared-components Button component to the App component */}
       <div>
+        <div>test SC-example1</div>
         <Button
           size={"medium"}
           text={"Button"}
